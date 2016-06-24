@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 575807087, guid: 533361e04fa896b4395cced4d33088c3, type: 3}
+  m_Name: Smooth Platform (Small)
+  m_EditorClassIdentifier: 
+  _internalFlags: 1
+  disableImmediatePreview: 0
+  _previewAssetId: z_73f6d965-d9ee-4a16-bcba-a788c13a6ce0
+  customPreviewImage: {fileID: 0}
+  customPreviewDesignTime: 1
+  _static: 1
+  _smooth: 1
+  visibility: 1
+  group: 0
+  overrideLayer: 0
+  layer: 0
+  overrideTag: 0
+  tag: Untagged
+  _categoryId: 0
+  forceLegacySideways: 1
+  overrideTransforms: 0
+  scaleMode: 1
+  applyPrefabTransform: 0
+  transformScale: {x: 1, y: 1, z: 1}
+  _userFlags: 524288
+  _userFlagLabels: 
+  _defaultOrientationMask: 0
+  _fallbackMode: 0
+  forceOverrideFlags: 0
+  _orientations:
+  - mask: 0
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: ec25fdd14318d464fac6d28e149dad7c, type: 2}
+    - {fileID: 100000, guid: 10283406721f566488668031dadfc5dd, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 2
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: d0f15e185253a564f86ceeb8662643d3, type: 2}
+    _variationWeights: 64000000
+  - mask: 8
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 84eb85957856faf4fabc5dfe4d4d123d, type: 2}
+    - {fileID: 100000, guid: 84b9e9d1d53934a43bb5d51cb655b726, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 11
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 2e5dec1832af31d40948517bc3aba5fe, type: 2}
+    _variationWeights: 64000000
+  - mask: 16
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 11bdd2253d48b2d44b52a7c5938ce0cd, type: 2}
+    - {fileID: 100000, guid: af57409f384d1474587654d25cf5cff2, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 22
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 88601c532498f4a41b14625e990d9007, type: 2}
+    _variationWeights: 64000000
+  - mask: 24
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: c5517b374e689774bad48ec77c8cedd0, type: 2}
+    - {fileID: 100000, guid: 292c145d8b9f09a4ca37bcf25b21d5f5, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 31
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 378b6751bf1bbc944842d78e78dbe883, type: 2}
+    _variationWeights: 64000000
+  - mask: 64
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: ca78337dd5e5c514c88bf1d2aee28839, type: 2}
+    - {fileID: 100000, guid: 00cdee1dd69c93349b5449b2f1e98f4c, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 104
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 509a0bed22b3629409646f0c208952c6, type: 2}
+    - {fileID: 100000, guid: 6e703a42a40194d4fb2e3934f6a6e3bc, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 208
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 122e3b58ba3a00c4097285f34c240f0a, type: 2}
+    - {fileID: 100000, guid: 34b3c33a58d7fb4409702bdc6893e10f, type: 2}
+    _variationWeights: 6400000012000000
+  - mask: 248
+    _type: 0
+    _rotation: 0
+    _variations:
+    - {fileID: 100000, guid: 48504a45fe87e7b4baa7bc55ea92d2d7, type: 2}
+    - {fileID: 100000, guid: 7267245bb0e043449818168cd0803d5b, type: 2}
+    _variationWeights: 6400000012000000
+  _materialMappingFrom: []
+  _materialMappingTo: []
+  _coalesce: 1
+  _coalesceWithRotated: 0
+  _coalesceWithBorder: 0
+  _coalesceBrushGroup: 0
+  _coalesceWithBrushGroups: 

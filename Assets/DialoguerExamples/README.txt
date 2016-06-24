@@ -1,0 +1,1 @@
+These are the Dialoguer Examples. You can delete this folder if you want to. Though it's recommended that you create your own themes, feel free to use any of these dialogue themes in your final project! 

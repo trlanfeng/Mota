@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -727921233, guid: ca8d1606cd5c9cf4680b1ed766df048c, type: 3}
+  m_Name: Small Tile
+  m_EditorClassIdentifier: 
+  _systemName: Small Tiles
+  _tileWidth: .266000003
+  _tileHeight: .266000003
+  _tileDepth: .266000003
+  _rows: 300
+  _columns: 900
+  _chunkWidth: 60
+  _chunkHeight: 60
+  _autoAdjustDirection: 1
+  _tilesFacing: 0
+  _direction: 4
+  _strippingPreset: 0
+  _strippingOptions: 175
+  _combineMethod: 1
+  _combineChunkWidth: 30
+  _combineChunkHeight: 30
+  _combineIntoSubmeshes: 1
+  _staticVertexSnapping: 1
+  _vertexSnapThreshold: .00100000005
+  _generateSecondUVs: 0
+  _2ndUV_hardAngle: 88
+  _2ndUV_packMargin: .00390625
+  _2ndUV_angleError: .0799999982
+  _2ndUV_areaError: .150000006
+  _pregenerateProcedural: 0
+  _reduceColliders:
+    _active: 1
+    _snapThreshold: .00999999978
+    _keepSeparate: 3
+    _includeSolidTiles: 0
+    _solidTileColliderType: 1
+  _hintEraseEmptyChunks: 0
+  _applyRuntimeStripping: 0
+  _updateProceduralAtStart: 1
+  _markProceduralDynamic: 0
+  _addProceduralNormals: 0
+  _sortingLayerID: 0
+  _sortingOrder: 0
